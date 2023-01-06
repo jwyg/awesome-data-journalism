@@ -161,6 +161,7 @@ Learning
 * [Python for journalists](https://datajournalism.com/watch/python-for-journalists) - with [Winny de Jong](https://winnymedia.nl/)
 * [First Python Notebook](https://palewi.re/docs/first-python-notebook/) - [Ben Welsh](https://palewi.re/who-is-ben-welsh/)
 * [Data Journalism with R and the Tidyverse](http://mattwaite.github.io/datajournalism/) - [Matt Waite](https://journalism.unl.edu/matt-waite-1)
+* [spreadsheetjournalism.com](https://spreadsheetjournalism.com/) - "remake the information blinking at you into something you can use"
 
 ### Data visualisation
 
