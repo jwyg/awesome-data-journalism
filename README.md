@@ -53,6 +53,7 @@ It is used and updated as part of open educational resources for the [data journ
 
 * [Doing Journalism with Data: First Steps, Skills and Tools](https://datajournalism.com/watch/doing-journalism-with-data-first-steps-skills-and-tools) and [other courses from datajournalism.com](https://datajournalism.com/watch)
 * [Data Journalism and Visualization with Free Tools](https://journalismcourses.org/course/dataviz/) - Knight Center for Journalism in the Americas
+* [Digital investigations for journalists: How to follow the digital trail of people and entities](https://journalismcourses.org/course/digitalinvestigations/) - 
 * [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) - New York Times
 * [Continue, pivot or put down](https://pudding.cool/process/pivot-continue-down/) - "The Pudding’s process to go from idea to data story"
 * Freely accessible materials from [ProPublica's Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute) – [2022](https://github.com/propublica/data-institute-2022), [2021](https://github.com/propublica/data-institute-2021), [2019](https://github.com/propublica/data-institute-2019), [2018](https://github.com/propublica/data-institute-2018)
@@ -162,6 +163,7 @@ Learning
 * [First Python Notebook](https://palewi.re/docs/first-python-notebook/) - [Ben Welsh](https://palewi.re/who-is-ben-welsh/)
 * [Data Journalism with R and the Tidyverse](http://mattwaite.github.io/datajournalism/) - [Matt Waite](https://journalism.unl.edu/matt-waite-1)
 * [spreadsheetjournalism.com](https://spreadsheetjournalism.com/) - "remake the information blinking at you into something you can use"
+* [Data journalism tutorials from Dan Nguyen](http://www.padjo.org/tutorials/) including on OpenRefine, SQL and more
 
 ### Data visualisation
 
@@ -233,10 +235,13 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [ICIJ](https://www.icij.org/) (US)
 * [InfoAmazonia](https://infoamazonia.org/en/) (Brazil)
 * [Interactive Things](https://www.interactivethings.com/) (Switzerland)
+* [Katadata](https://katadata.co.id/jurnalisme-data) (Indonesia)
 * [Kiln](https://www.kiln.digital/) (UK)
+* [Kontinentalist](https://kontinentalist.com/) (Singapore)
 * [LA Times Datadesk](http://www.latimes.com/local/datadesk/) (US)
 * [La Nacion](https://www.lanacion.com.ar/data/) (Argentina)
 * [Le Monde](https://www.lemonde.fr/blog/data/) (France)
+* [Lighthouse Reports](https://www.lighthousereports.nl/) (Netherlands)
 * [Malaysiakini](https://www.malaysiakini.com/en/tag/datajournalism) (Malaysia)
 * [The Markup](https://themarkup.org/) (US)
 * [Mic.com](https://web.archive.org/web/20220626203906/https://unerased.mic.com/) (US)
@@ -275,11 +280,15 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [Caelainn Barr](https://www.theguardian.com/profile/caelainn-barr)
 * [Claire Miller](https://clairemiller.net/) - [muckrack](https://muckrack.com/clairemiller/articles)
 * [Dorothy Otieno](https://nation.africa/kenya/dorothy-otieno-10722)
+* [Emilia Díaz-Struck](https://www.icij.org/journalists/emilia-diaz-struck/) - [interview with datajournalism.com](https://soundcloud.com/datajournalism/episode-14-emilia-diaz-struck-icij)
 * [Fabiola Torres López](https://www.icij.org/journalists/fabiola-torres-lopez/) - [interview with ICIJ](https://www.icij.org/investigations/implant-files/health-is-not-always-sexy-for-journalists-why-not/)
+* [Jan Diehm](http://jandiehmdesigns.com/) - [interview with datajournalism.com](https://soundcloud.com/datajournalism/episode-28-conversation-with-jan-diehm-the-pudding)
 * [Lam Thuy Vo](https://www.lamivo.com/)
 * [Lena Groeger](https://lenagroeger.com/)
+* [Miriam Quick](https://miriamquick.com/)
 * [Mona Chalabi](https://monachalabi.com/) - [drawings on Instagram](https://www.instagram.com/monachalabi), [interview in Data Journalism Handbook](https://www.jstor.org/stable/j.ctv1qr6smr.28#metadata_info_tab_contents), [Al Jazeera documentary](https://www.aljazeera.com/program/whose-truth-is-it-anyway/2019/11/18/the-truth-in-numbers-redefining-data-journalism-through-art), [D&AD interview](https://www.youtube.com/watch?v=1mLokxukgYM)
 * [Shirley Wu](https://shirleywu.studio/)
+* [Sinduja Rangarajan](https://muckrack.com/sinduja-rangarajan) - [interview on datajournalism.com](https://soundcloud.com/datajournalism/episode-41-conversation-with-sinduja-rangarajan)
 * [Sisi Wei](https://sisiwei.com/) - [Muckrack](https://muckrack.com/sisi-wei), [ProPublica](https://www.propublica.org/people/sisi-wei)
 * [Winny de Jong](https://winnymedia.nl/work)
 
