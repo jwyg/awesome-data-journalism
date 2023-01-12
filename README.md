@@ -8,6 +8,8 @@ This repository builds on lists and collections of resources from the [first](ht
 
 It is used and updated as part of open educational resources for the [data journalism MA module at King's College London](https://www.kcl.ac.uk/abroad/module-options/data-journalism-15-credits).
 
+Suggestions for open access resources or links to add are [most welcome](https://github.com/jwyg/awesome-data-journalism/issues).
+
 ## Table of contents
 
   - [Data journalism learning](#data-journalism-learning)
