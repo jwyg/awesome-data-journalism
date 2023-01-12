@@ -59,6 +59,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 * [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) - New York Times
 * [Continue, pivot or put down](https://pudding.cool/process/pivot-continue-down/) - "The Pudding’s process to go from idea to data story"
 * Freely accessible materials from [ProPublica's Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute) – [2022](https://github.com/propublica/data-institute-2022), [2021](https://github.com/propublica/data-institute-2021), [2019](https://github.com/propublica/data-institute-2019), [2018](https://github.com/propublica/data-institute-2018)
+* [datajourn.com](https://datajourn.com/) - "learn how to find data, extract stories from data, and package data in visual and interactive ways", from [Dylan Freedman](https://dylanfreedman.com/) at the Washington Post
 * [Data Journalism University Courses and Programmes](https://github.com/jwyg/data-journalism-courses)
 * [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
 
