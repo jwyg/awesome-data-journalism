@@ -8,6 +8,8 @@ This repository builds on lists and collections of resources from the [first](ht
 
 It is used and updated as part of open educational resources for the [data journalism MA module at King's College London](https://www.kcl.ac.uk/abroad/module-options/data-journalism-15-credits).
 
+Suggestions for open access resources or links to add are [most welcome](https://github.com/jwyg/awesome-data-journalism/issues). The repository for this page is [here](https://github.com/jwyg/awesome-data-journalism).
+
 ## Table of contents
 
   - [Data journalism learning](#data-journalism-learning)
@@ -57,6 +59,7 @@ It is used and updated as part of open educational resources for the [data journ
 * [How We Helped Our Reporters Learn to Love Spreadsheets](https://open.nytimes.com/how-we-helped-our-reporters-learn-to-love-spreadsheets-adc43a93b919) - New York Times
 * [Continue, pivot or put down](https://pudding.cool/process/pivot-continue-down/) - "The Pudding’s process to go from idea to data story"
 * Freely accessible materials from [ProPublica's Data Institute](https://projects.propublica.org/graphics/ida-propublica-data-institute) – [2022](https://github.com/propublica/data-institute-2022), [2021](https://github.com/propublica/data-institute-2021), [2019](https://github.com/propublica/data-institute-2019), [2018](https://github.com/propublica/data-institute-2018)
+* [datajourn.com](https://datajourn.com/) - "learn how to find data, extract stories from data, and package data in visual and interactive ways", from [Dylan Freedman](https://dylanfreedman.com/) at the Washington Post
 * [Data Journalism University Courses and Programmes](https://github.com/jwyg/data-journalism-courses)
 * [Computer-Assisted Reporting and Data Journalism Syllabuses](https://github.com/dannguyen/journalism-syllabi)
 
@@ -211,7 +214,7 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [BBC Visual and Data Journalism](https://medium.com/@bbc_visual_and_data_journalism) (UK)
 * [Bellingcat](https://www.bellingcat.com/) (Netherlands)
 * [Bloomberg](https://www.bloomberg.com/graphics/infographics/) (US)
-* [​B​uzzFeed Investigations](https://www.buzzfeed.com/investigations) (US)
+* [BuzzFeed Investigations](https://www.buzzfeed.com/investigations) (US)
 * [The Bureau Local](https://www.thebureauinvestigates.com/projects/the-bureau-local) (UK)
 * [Caixin](https://www.caixinglobal.com/) (China)
 * [Carbon Brief](https://www.carbonbrief.org/) (UK)
@@ -220,8 +223,9 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [Convoca](https://convoca.pe/) (Peru)
 * [datadesk.eco](https://datadesk.eco/) (UK)
 * [Data_Labe](https://datalabe.org/) (Brazil)
+* [Der Spiegel](https://www.spiegel.de/thema/daten/) (Germany)
 * [Deutsche Welle](https://www.dw.com/en/data/t-43091100) (Germany)
-* [DT Finance](http://dtcj.com/) (China)
+* [elDiario.es](https://www.eldiario.es/datos/) (Spain)
 * [El Universal](https://interactivo.eluniversal.com.mx/periodismo-datos/) (Mexico)
 * [El Tiempo](https://www.eltiempo.com/datos) (Colombia)
 * [Estado de S. Paulo](https://www.estadao.com.br/infograficos) (Brazil)
