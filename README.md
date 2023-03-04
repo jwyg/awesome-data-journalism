@@ -136,6 +136,7 @@ Learning
 * [scraping for journalism](https://www.propublica.org/nerds/doc-dollars-guides-collecting-the-data) (guide from ProPublica)
 * [Getting Data Without (Much) Code](http://lenagroeger.s3.amazonaws.com/datacode/gettingdata.html) - guide from [Lena Groeger](https://lenagroeger.com/)
 * [scrapism](https://scrapism.lav.io/) - "practice of web scraping for artistic, emotional, and critical ends"
+* [Finding Undocumented APIs](https://inspectelement.org/apis.html) and [Journalists, You Should Be Looking for Undocumented APIs. Here’s How to Start](https://themarkup.org/levelup/2023/03/03/journalists-you-should-be-looking-for-undocumented-apis-heres-how-to-start) - from [Leon Yin](https://www.leonyin.org/) at [The Markup](https://themarkup.org/). 
 
 ### Data analysis
 
