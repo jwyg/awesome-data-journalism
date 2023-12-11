@@ -84,6 +84,7 @@ Suggestions for open access resources or links to add are [most welcome](https:/
 * [Top 10 in Data Journalism](https://gijn.org/series/top-10-data-journalism-links/) from  Eunice Au at the Global Investigative Journalism Network
 * [ddj.news](https://ddj.news/) - "weekly newsletter featuring the best of the web for data journalists" from [Winny de Jong](https://winnymedia.nl/)
 * [Online journalism blog](https://onlinejournalismblog.com/tag/data-journalism/) 
+* [Digital Investigations](https://digitalinvestigations.substack.com/) - newsletter with tips, techniques and links
 
 ### Some listening
 
