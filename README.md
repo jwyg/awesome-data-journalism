@@ -295,6 +295,7 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [Jan Diehm](http://jandiehmdesigns.com/) - [interview with datajournalism.com](https://soundcloud.com/datajournalism/episode-28-conversation-with-jan-diehm-the-pudding)
 * [Lam Thuy Vo](https://www.lamivo.com/)
 * [Lena Groeger](https://lenagroeger.com/)
+* [Maddy Varner](https://maddy.zone/)
 * [Miriam Quick](https://miriamquick.com/)
 * [Mona Chalabi](https://monachalabi.com/) - [drawings on Instagram](https://www.instagram.com/monachalabi), [interview in Data Journalism Handbook](https://www.jstor.org/stable/j.ctv1qr6smr.28#metadata_info_tab_contents), [Al Jazeera documentary](https://www.aljazeera.com/program/whose-truth-is-it-anyway/2019/11/18/the-truth-in-numbers-redefining-data-journalism-through-art), [D&AD interview](https://www.youtube.com/watch?v=1mLokxukgYM)
 * [Shirley Wu](https://shirleywu.studio/)
