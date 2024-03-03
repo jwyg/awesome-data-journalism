@@ -208,6 +208,7 @@ Learning
 Links to data journalism teams, sections, dedicated outlets and organisations.
 
 * [AlgorithmWatch](https://algorithmwatch.org/en/) (Germany)
+* [Al Jazeera Labs](https://www.aljazeera.com/author/ajlabs) (Qatar)
 * [Associated Press](https://blog.ap.org/topic/data-journalism) (US)
 * [Agência Pública](https://apublica.org/tipo/dados/) (Brazil)
 * [Animal Político](https://www.animalpolitico.com/) (Mexico)
