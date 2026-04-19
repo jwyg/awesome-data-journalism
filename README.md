@@ -155,6 +155,7 @@ Tools
 * [dedupe](https://github.com/dedupeio/dedupe)
 * [csvkit](https://csvkit.readthedocs.io/en/latest/)
 * [datakit](https://datakit.ap.org/) - "an open-source command-line tool designed to better structure and manage projects" from Associated Press
+* [Helium MCP](https://github.com/connerlambden/helium-mcp) - free remote MCP server giving AI assistants (Claude, Cursor) structured 31-dimension bias scores per article (sensationalism, scapegoating, opinion-vs-fact, AI-authorship probability, credibility) across 3.2M+ articles from 5,000+ sources, plus multi-source balanced synthesis
 * [jupyter](https://jupyter.org/) - see also [examples from Winny de Jong's Python for Journalists](https://github.com/winnydejong/pythonforjournalists) and [*Data Journalism Handbook* chapter on accounting for methods in data journalism](https://datajournalism.com/read/handbook/two/working-with-data/accounting-for-methods-in-data-journalism-spreadsheets-scripts-and-programming-notebooks)
 
 Learning
