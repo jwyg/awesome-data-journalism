@@ -316,3 +316,4 @@ Links to data journalism teams, sections, dedicated outlets and organisations.
 * [Quick Guide to Data Journalism](https://www.datacamp.com/blog/quick-guide-to-data-journalism) - datacamp
 * [Awesome interactive journalism](https://github.com/wbkd/awesome-interactive-journalism)
 * [Interactive news](https://docs.google.com/spreadsheets/u/0/d/1sSWytfD1N1nuXkry7IZyscahj9M8lX04XJWeqrdgDZk/pubhtml#) (spreadsheet no longer updated)
+* [Albis](https://www.albis.news/?utm_source=github&utm_medium=catalog&utm_campaign=awesome_data_journalism_jwyg) - public news-discovery feed for spotting global stories and coverage gaps your usual feed may miss, with a short media-literacy exercise for early testers.
