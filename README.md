@@ -155,6 +155,7 @@ Tools
 * [dedupe](https://github.com/dedupeio/dedupe)
 * [csvkit](https://csvkit.readthedocs.io/en/latest/)
 * [datakit](https://datakit.ap.org/) - "an open-source command-line tool designed to better structure and manage projects" from Associated Press
+* [connerlambden/helium-mcp](https://github.com/connerlambden/helium-mcp) — 37-dimensional news source bias scoring (216 outlets). Remote MCP + REST; useful for comparing framing across sources. [Demo](https://connerlambden.github.io/helium-news-explorer/)
 * [jupyter](https://jupyter.org/) - see also [examples from Winny de Jong's Python for Journalists](https://github.com/winnydejong/pythonforjournalists) and [*Data Journalism Handbook* chapter on accounting for methods in data journalism](https://datajournalism.com/read/handbook/two/working-with-data/accounting-for-methods-in-data-journalism-spreadsheets-scripts-and-programming-notebooks)
 
 Learning
