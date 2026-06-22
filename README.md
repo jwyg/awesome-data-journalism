@@ -117,6 +117,7 @@ Datasets
 ](https://github.com/awesomedata/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
+* [Texas TDLR Contractor Bond Compliance](https://contact219.github.io/texas-tdlr-bond-compliance-2026/) - Bond compliance status for 816,000+ Texas-licensed contractors across 22 license types (HVAC, electricians, tow truck operators, notaries) — 29.3% non-compliance rate. Published by Quantum Surety Bond Watch. API available at verify.quantumsurety.bond.
 
 Data settings
 * [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) - Heather Krause, Global Investigative Journalism Network
