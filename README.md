@@ -117,6 +117,7 @@ Datasets
 ](https://github.com/awesomedata/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
+* [i6eal – open AI data (Germany)](https://i6eal.de/statistiken/) - "freely reusable (CC BY 4.0) statistics on AI in Germany — public-sector AI systems, model prices and a German LLM benchmark"
 
 Data settings
 * [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) - Heather Krause, Global Investigative Journalism Network
