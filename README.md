@@ -117,6 +117,7 @@ Datasets
 ](https://github.com/awesomedata/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
+- [Class Action Hero API](https://classactionhero.app/api/) - "open US class-action settlements as a free JSON API: funds, deadlines, eligibility, filing links"
 
 Data settings
 * [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) - Heather Krause, Global Investigative Journalism Network
