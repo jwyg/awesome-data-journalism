@@ -117,6 +117,7 @@ Datasets
 ](https://github.com/awesomedata/awesome-public-datasets)
 * [r/datasets](https://www.reddit.com/r/datasets/)
 * [dataportals.org](https://dataportals.org/)
+* [twtData X trends archive](https://twtdata.com/twitter-trends/) - X (Twitter) trending topics worldwide and by country, updated hourly, with an archive of past days
 
 Data settings
 * [Data Biographies: Getting to Know Your Data](https://gijn.org/2017/03/27/data-biographies-getting-to-know-your-data/) - Heather Krause, Global Investigative Journalism Network
